@@ -215,7 +215,6 @@ python-if-else-tutorial/
 │
 ├── if_else_examples.py     # Main Python file with examples
 ├── README.md               # Documentation file (this file)
-└── LICENSE (optional)
 ```
 
 ---
